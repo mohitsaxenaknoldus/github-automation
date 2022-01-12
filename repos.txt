@@ -1,0 +1,4 @@
+<repo_name> <contributor_user_id>
+<repo_name> <contributor_user_id>
+<repo_name> <contributor_user_id>
+...
